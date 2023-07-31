@@ -1,0 +1,171 @@
+.img{
+    background-image: url("gabriel\ ghnassia\ A9h6OsAxTyQ\ unsplash.png");
+    height: 40rem;
+    background-size: 100% 100%;
+    width: auto;
+}
+.right{
+    height: 6rem;
+    width: 10rem;
+    background-color: #E0B973;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border: none;
+    margin-left: 4rem;
+}
+.h3{
+    color: #14274A;
+font-family: Adobe Garamond Pro;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 6px;
+}
+
+.navbar{
+    font-size: 2rem;
+    margin-left: 53rem;
+    margin-top: -7rem;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;}
+
+.Welcome{color: #FFF;
+    font-family: Montserrat;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: fit-content;
+    margin-left: 6rem;
+    margin-top: 7rem;
+ }
+
+ .Luxury{
+    color: white;
+    font-size: 101px;
+    font-family: Adobe Garamond Pro;
+    font-weight: 700;
+    letter-spacing: 2.78px;
+    margin-left: 6rem;
+    margin-top: -40rem;
+}
+
+.Hotels{
+    color: white;
+    font-size: 52px;
+    font-family: Adobe Garamond Pro;
+    font-weight: 700;
+    letter-spacing: 3px;
+    word-wrap: break-word;
+    margin-left: 6rem;
+    margin-top: -3rem;
+}
+
+.Book{
+    color: white;
+    font-size: 25px;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 2.50px;
+    word-wrap: break-word;
+    margin-left: 6rem;
+    margin-top: -1rem;
+    }
+ 
+.Booknow{
+    width: 10rem;
+    height: 3rem;
+    background: #E0B973;
+    border-radius: 4px;
+    font-size: 20px;
+    padding-top: 10px;
+    color: white;
+    padding-left: 18px;
+    margin-left: 36rem;
+    margin-top: -17rem;
+    }
+    
+.Scroll{
+    color: white;
+    font-size: 25px;
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 1.25px;
+    word-wrap: break-word;
+    width: fit-content;
+    margin-left: 39rem;
+    margin-top: 1rem;
+    }
+
+.All{
+    
+    color: #14274A;
+    font-size: 36px;
+    font-family: Montserrat;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-left: 21rem;
+    margin-top: 3rem;
+    width: fit-content;
+}
+
+.btn{
+    background-color: #E0B973;
+    color: white;
+}
+
+.lux{
+    color: #14274A;
+    font-size: 45px;
+    font-family: Adobe Garamond Pro;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    word-wrap: break-word;
+    border: none;
+    padding-top: 5rem;
+}
+.our{color: #14274A;
+    font-size: 19px;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 40px;
+    word-wrap: break-word;
+    padding-top: 1rem;
+}
+    
+.Testimonials{
+ color: #14274A;
+ font-size: 60px;
+ font-family: Adobe Garamond Pro;
+ font-weight: 700;
+ word-wrap: break-word;
+ margin-left: 33rem;
+ margin-top: 5rem;
+ width: fit-content;
+}
+
+.calm{
+color: #14274A;
+ font-size: 30px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word;
+ margin-left: 21rem;
+ font-size: 2rem;
+ width: fit-content;
+}
+ 
+
+
+.Mr{
+ color: #14274A;
+ font-size: 25px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word;
+ margin-left: 35rem;
+ width: fit-content;
+}
