@@ -1,8 +1,8 @@
 .img{
-    background-image: url("gabriel\ ghnassia\ A9h6OsAxTyQ\ unsplash.png");
+    background-image: url(gabriel\ ghnassia\ A9h6OsAxTyQ\ unsplash.png);
     height: 40rem;
     background-size: 100% 100%;
-    width: auto;
+    width: 93.5rem;
 }
 .right{
     height: 6rem;
@@ -30,7 +30,9 @@ letter-spacing: 6px;
     display: flex;
     justify-content: flex-end;
     flex-direction: row-reverse;
-    flex-wrap: nowrap;}
+    flex-wrap: nowrap;
+     color: white;
+    }
 
 .Welcome{color: #FFF;
     font-family: Montserrat;
@@ -169,3 +171,4 @@ color: #14274A;
  margin-left: 35rem;
  width: fit-content;
 }
+
