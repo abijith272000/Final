@@ -1,5 +1,5 @@
 .img{
-    background-image: url(gabriel\ ghnassia\ A9h6OsAxTyQ\ unsplash.png);
+    background-image: url(palm-trees-at-night-258154\ 1.png);
     height: 40rem;
     background-size: 100% 100%;
     width: 93.5rem;
@@ -102,73 +102,69 @@ letter-spacing: 6px;
     margin-top: 1rem;
     }
 
-.All{
-    
+.Facilities{text-align: center;
+     color: #14274A;
+      font-size: 60px;
+       font-family: Adobe Garamond Pro;
+        font-weight: 700; 
+        letter-spacing: 3px;
+         word-wrap: break-word;
+         margin-top: 3rem;
+        }
+ .We{
+    width: 1540px;
+     text-align: center;
+      color: #14274A;
+       font-size: 25px; 
+       font-family: Montserrat;
+        font-weight: 400;
+         word-wrap: break-word
+ }       
+
+ .go{
+    width: 20rem;
+    margin-left: 29rem;
+    margin-top: -3rem;
+    background-color: white;
+    border: none;
+    color: black;
+    font-size: 25px;
+    font-family: Montserrat;
+    font-weight: 700;
+ }
+
+ .Testimonials{
     color: #14274A;
-    font-size: 36px;
+    font-size: 60px;
+    font-family: Adobe Garamond Pro;
+    font-weight: 700;
+    word-wrap: break-word;
+    margin-left: 33rem;
+    margin-top: 5rem;
+    width: fit-content;
+   }
+   
+   .calm{
+   color: #14274A;
+    font-size: 30px;
     font-family: Montserrat;
     font-weight: 400;
     word-wrap: break-word;
     margin-left: 21rem;
-    margin-top: 3rem;
+    font-size: 2rem;
     width: fit-content;
-}
-
-.btn{
-    background-color: #E0B973;
-    color: white;
-}
-
-.lux{
+   }
+    
+   
+   
+   .Mr{
     color: #14274A;
-    font-size: 45px;
-    font-family: Adobe Garamond Pro;
-    font-weight: 700;
-    letter-spacing: 1.2px;
-    word-wrap: break-word;
-    border: none;
-    padding-top: 5rem;
-}
-.our{color: #14274A;
-    font-size: 19px;
+    font-size: 25px;
     font-family: Montserrat;
     font-weight: 400;
-    line-height: 40px;
     word-wrap: break-word;
-    padding-top: 1rem;
-}
-    
-.Testimonials{
- color: #14274A;
- font-size: 60px;
- font-family: Adobe Garamond Pro;
- font-weight: 700;
- word-wrap: break-word;
- margin-left: 33rem;
- margin-top: 5rem;
- width: fit-content;
-}
+    margin-left: 35rem;
+    width: fit-content;
+   }
 
-.calm{
-color: #14274A;
- font-size: 30px;
- font-family: Montserrat;
- font-weight: 400;
- word-wrap: break-word;
- margin-left: 21rem;
- font-size: 2rem;
- width: fit-content;
-}
  
-
-
-.Mr{
- color: #14274A;
- font-size: 25px;
- font-family: Montserrat;
- font-weight: 400;
- word-wrap: break-word;
- margin-left: 35rem;
- width: fit-content;
-}
-
