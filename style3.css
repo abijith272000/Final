@@ -1,0 +1,140 @@
+.img{    background-color: #14274A;
+    height: 17rem;
+    width: 93rem;
+}
+
+.contact{
+    color: white;
+    width: fit-content;
+    font-size: 5rem;
+}
+
+.right{
+    height: 6rem;
+    width: 10rem;
+    background-color: #E0B973;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border: none;
+    margin-left: 4rem;
+}
+.h3{
+    color: #14274A;
+font-family: Adobe Garamond Pro;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 6px;
+}
+
+.navbar{
+    font-size: 2rem;
+    margin-left: 53rem;
+    margin-top: -7rem;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+     color: white;
+    }
+
+ .We{
+    color: #14274A;
+    font-size: 42px;
+    font-family: Adobe Garamond Pro;
+    font-weight: 700;
+    word-wrap: break-word;
+    margin-left: 5rem;
+    margin-top: 5rem;
+ }   
+ .At{
+  width: 100%;
+    color: #14274A;
+    font-size: 18px;
+    font-family: Montserrat;
+    font-weight: 400;
+    margin-left: 6rem;
+
+ }
+ .Ever{
+    color: #14274A;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-left: 6rem;
+    margin-top: 7rem;
+ }
+ .View{
+    width: fit-content;
+    height: 100%;
+    color: #14274A;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: 700;
+    word-wrap: break-word;
+    margin-left: 6rem;
+    margin-top: 0rem;
+ }
+ .Phone{
+    color: #14274A;
+    font-size: 21px;
+    font-family: Montserrat;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-left: 6rem;
+ }
+ .Name{
+  
+    color: #14274A;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-left: 54rem;
+    margin-top: -11rem;
+
+ }
+ .Email{
+    width: fit-content;
+    margin-left: 54rem;
+ }
+ .Message{
+    width: fit-content;
+    margin-left: 54rem;
+ }
+
+ .Testimonials{
+    color: #14274A;
+    font-size: 60px;
+    font-family: Adobe Garamond Pro;
+    font-weight: 700;
+    word-wrap: break-word;
+    margin-left: 33rem;
+    margin-top: 5rem;
+    width: fit-content;
+   }
+   
+   .calm{
+   color: #14274A;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-left: 21rem;
+    font-size: 2rem;
+    width: fit-content;
+   }
+    
+   
+   
+   .Mr{
+    color: #14274A;
+    font-size: 25px;
+    font-family: Montserrat;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-left: 35rem;
+    width: fit-content;
+   }
